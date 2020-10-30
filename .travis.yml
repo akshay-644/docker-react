@@ -1,5 +1,4 @@
-sudo: true
-language: generic
+language: ruby
 services: 
     - docker
 
